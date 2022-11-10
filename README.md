@@ -1,3 +1,5 @@
+[![Python](https://img.shields.io/badge/Python-Used-blue.svg)](https://shields.io/#/)
+
 # KoG2Padvanced
 
 KoG2Padvanced는 파이썬 기반의 한국어 발음 변환기 [KoG2P](https://github.com/scarletcho/KoG2P)를 기반으로 KoG2P에서 반영하지 못하는 음운론적 규칙을 추가함으로써 성능을 보다 높인 모델로써, 본 모델에서 추가로 반영한 음운론적 규칙은 다음과 같습니다.
