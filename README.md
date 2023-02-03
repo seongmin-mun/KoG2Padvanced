@@ -57,11 +57,12 @@ git clone https://github.com/seongmin-mun/KoG2Padvanced.git
 ## Reference
 해당 소프트웨어를 연구에 활용하고자 하시는 분들은 다음의 형식으로 참고문헌에 작성해 주시면 감사하겠습니다.
 
-	@misc{Mun2022KoG2Padvanced,
-	  title = {KoG2Padvanced},
-	  author = {Seongmin Mun},
-	  year = {2022},
-	  publisher = {GitHub},
-	  journal = {GitHub repository},
-	  howpublished = {\url{https://github.com/seongmin-mun/KoG2Padvanced}}
-	}
+@article{Munetal2022,
+  author = {Mun, Seongmin and Kim, Su-Han and Ko, Eon-Suk},
+  year = {2022},
+  title = {A proposal to improve on existing Grapheme-to-Phoneme conversion models informed by linguistics},
+  journal = {The Korean Society for Language and Information},
+  volume = 26,
+  number = {2},
+  pages = {27--46}
+}
