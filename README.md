@@ -56,7 +56,7 @@ git clone https://github.com/seongmin-mun/KoG2Padvanced.git
 
 ## Reference
 해당 소프트웨어를 연구에 활용하고자 하시는 분들은 다음의 형식으로 참고문헌에 작성해 주시면 감사하겠습니다.
-
+```
 @article{Munetal2022,
   author = {Mun, Seongmin and Kim, Su-Han and Ko, Eon-Suk},
   year = {2022},
@@ -66,3 +66,4 @@ git clone https://github.com/seongmin-mun/KoG2Padvanced.git
   number = {2},
   pages = {27--46}
 }
+```
