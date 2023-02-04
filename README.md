@@ -2,7 +2,7 @@
 
 # KoG2Padvanced
 
-KoG2Padvanced는 파이썬 기반의 한국어 발음 변환기 [KoG2P](https://github.com/scarletcho/KoG2P)를 기반으로 KoG2P에서 반영하지 못하는 음운론적 규칙을 추가함으로써 성능을 보다 높인 모델로써, <strong>이 연구는 2019년 정부(미래창조과학부)의 재원으로 정보통신기술진흥센터의 지원을 받아 수행된 연구입니다(2019-0-01371,Development of brain-inspired AI with human-like intelligence)</strong>. 추가로 해당 발음 변환 모델과 기존 모델들의 성능 비교에 관한 결과 보고는 2022년 [언어와 정보](https://www.kci.go.kr/kciportal/po/search/poCitaView.kci?sereId=000467) 학술지 26권 2호에 [논문](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002922160)으로 게재 되어 있습니다. 본 모델에서 추가로 반영한 음운론적 규칙은 다음과 같습니다.
+KoG2Padvanced는 파이썬 기반의 한국어 발음 변환기 [KoG2P](https://github.com/scarletcho/KoG2P)를 기반으로 KoG2P에서 반영하지 못하는 음운론적 규칙을 추가함으로써 성능을 보다 높인 모델로써, 해당 발음 변환 모델과 기존 모델들의 성능 비교에 관한 결과 보고는 2022년 [언어와 정보](https://www.kci.go.kr/kciportal/po/search/poCitaView.kci?sereId=000467) 학술지 26권 2호에 [논문](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002922160)으로 게재 되어 있습니다. 본 모델에서 추가로 반영한 음운론적 규칙은 다음과 같습니다.
 
 #### ㅎ탈락(/h/-deletion): - 강옥미(2003: 515) 한국어 음운론, 표준발음법 제12항 
 - 제12항-2: ‘ㅎ(ㄶ, ㅀ)’ 뒤에 ‘ㅅ’이 결합되는 경우에는, ‘ㅅ’을 [ㅆ]으로 발음한다.
@@ -55,7 +55,7 @@ git clone https://github.com/seongmin-mun/KoG2Padvanced.git
 
 
 ## Reference
-해당 소프트웨어를 연구에 활용하고자 하시는 분들은 다음의 형식으로 참고문헌에 작성해 주시면 감사하겠습니다.
+<strong>이 연구는 2019년 정부(미래창조과학부)의 재원으로 정보통신기술진흥센터의 지원을 받아 수행된 연구입니다(2019-0-01371,Development of brain-inspired AI with human-like intelligence)</strong>. 해당 소프트웨어를 연구에 활용하고자 하시는 분들은 다음의 형식으로 참고문헌에 작성해 주시면 감사하겠습니다.
 ```
 @article{Munetal2022,
   author = {Mun, Seongmin and Kim, Su-Han and Ko, Eon-Suk},
