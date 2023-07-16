@@ -1,0 +1,131 @@
+rule	filename	underlying	surface	target_underlying	target_surface
+coda neutralization	Original_WARW1900000086	동녘 들머리로 갓 솟은 아침해가 이슬 내린 밭고랑 사이에서 부연 안개를 피워올린다.	동녁 들머리로 갇 소슨 아치매가 이슬 내린 받꼬랑 사이에서 부연 안개를 피워올린다.	동녘	동녁
+coda neutralization	Original_WARW1800000048	선처럼 가느다란 쌍봉낙타의 눈을 좇아 나는 창밖 멀리로 시선을 돌린다.	선처럼 가느다란 쌍봉낙타에 누늘 조차 나는 창박 멀리로 시서늘 돌린다.	창밖	창박
+coda neutralization	Original_WARW1800000007	장안에 민대감 부인이 불공을 간다고 하자 단추 아홉 개 달린 옷 아홉 벌을 입혀 보냈다.	장아네 민대감 부이니 불공을 간다고 하자 단추 아옵깨 달린 옫 아옵뻘을 이펴 보낻따.	옷	옫
+coda neutralization	Original_WARW1900000043 	세상 위에 밤낮 퍼져 있거라.	세상 위에 밤낟 퍼져 읻꺼라.	밤낮	밤낟
+coda neutralization	Original_WARW1900000043	쑥쑥 자라고 있다	쑥쑥 자라고 읻따.	있다	읻따
+coda neutralization	Original_SBRW1900016598	예컨대 아~ 그러니까 닻줄을 놔줘야죠.	예컨대 아~ 그러니까 닫쭐을 놔줘야죠.	닻줄	닫쭐
+coda neutralization	Original_WARW1900002860	밑 빠진 독에 물 붓기라는 생각도 들고.	믿 빠진 도게 물 붇끼라는 생각도 들고	밑 	믿 
+coda neutralization	Original_SBRW1900016791	저하고 또 우리 앞 동네 살았어요.	저아고 또 우리 압 동네 사라써요.	앞	압
+coda neutralization	Original_SBRW1900017741	하면 음~ 그냥 뭐 평양 시민이 나와서 그냥 닦고 쓸고 했습니다.	하면 음~ 그냥 뭐 평양 시미니 나와서 그냥 닥꼬 쓸고 핻씀니다.	닦고	닥꼬
+coda neutralization	Original_SBRW1900011324	망치와 낫 그리고 가운데 붓이 있는데 어떤 의미인지 좀 설명 좀 해주세요.	망치와 낟 그리고 부시 인는데 어떤 의미인지 좀 설명 좀 해주세요	낫	낟
+coda cluster simplification	Original_SBRW1800000072,네 이런거부터 좀 고민해야 되는게 경제사회 인문사회연구회와 같은 연구기관들이 몫 아니겠습니까	네 이런거부터 좀 고민해야 되는게 경제사회 인문사회연구회와 같은 연구기관들이 몫 아니겠습니까	네 이런거부터 좀 고미내야 되는게 경제사외 인문사외연구외와 가튼 연구기관드리 목 아니겓씀니까.	몫	목
+coda cluster simplification	Original_SARW1800000620	일부 학생만이 창문 옆에 앉는 것을 특혜라고 여겨서 교실 안의 빛을 균등하게 하기 위한 것이었습니다.	일부 학생마니 창문 여페 안는 거슬 트케라고 여겨서 교실 안에 비츨 균등아게 하기 위안  거시얻씀니다	앉는	안는
+coda cluster simplification	Original_SARW1800000456	한 번 주행을 시작하면 별도 조작 없이 여덟 시간까지 운행할 수 있습니다.	한 번 주앵을 시자카면 별도 조작 업씨 여덜 시간까지 우냉알 쑤 읻씀니다.	여덟	여덜
+coda cluster simplification	Original_WARW1900000088	따라서 부모를 잃은 그들은 그날로 이미 삶 자체를 잃은 셈이다.	따라서 부모를 이른 그드른 그날로 이미 삼 자체를 이른 세미다.	삶	삼
+coda cluster simplification	Original_WARW1900000094	그의 목소리는 무슨 노래의 후렴을 읊조리고 있는 것 같았다.	그에 목쏘리는 무슨 노래에 후려믈 읍쪼리고 인는 걷 가탇따.	읊조리고	읍쪼리고
+coda cluster simplification	Original_WARW1900000095	그들은 영원한 안식을 위해 값비싼 대리석으로 집을 짓고 거리를 꾸몄다.	그드른 영워난 안시글 위애 갑삐싼 대리서그로 지블 짇꼬 거리를 꾸멷따.	값비싼	갑삐싼
+coda cluster simplification	Original_WARW1900000600	마음이 외곬로 곧거나 아주 정직하고 결백한 사람.	마으미 외골로 곧꺼나 아주 정지카고 결배칸 사람.	외곬로	외골로
+coda cluster simplification	Original_WARW1800000007,	“닭 잡을라구 그랴.”	닥 자블라구 그랴	닭	닥 
+coda cluster simplification	Original_SBRW1900000006	노래가 굉장히 밝고 경쾌하고 좀 사람 기분 좋게 만드는 노래인 것 같아요.	노래가 광장이 발꼬 경쾌아고 좀 사람 기분 조케 만드는 노래인 것 가타요.	밝고	발꼬
+coda cluster simplification	Original_SBRW1900009737	아는 척을 막 하면서 막 핥고 잘 섞어놓으면 답이 나오겠습니다.	아는 처글 막 하면서 막 할꼬 잘 서꺼노으면 다비 나오겓씀니다.	핥고	할꼬
+h-deletion	Original_WARW1800000007	아홉 살 먹은 아이를 둔 집의 여자가 윗집 남자와 자주 외도를 했다.	아옵 살 머근 아이를 둔 지베 여자가 윋찝 남자와 자주 외도를 핻따.	아홉	아옵
+h-deletion	Original_WARW1800000007	선생님 저하구 결혼하먼 워떻겄어요?	선생님 저아구 겨로나먼 워떠커써요?	결혼	겨론
+h-deletion	Original_WARW1800000048	친딸이 아니라고 이혼할 때 마누라가 데려가지 않았다	친따리 아니라고 이오날 때 마누라가 데려가지 아낟따	이혼	이온
+h-deletion	Original_WARW1800000048	아버지가 고개를 약간 수그리고 있어 다행히 눈이 마주치지는 않았다.	아버지가 고개를 약깐 수그리고 이써 다앵이 누니 마주치지는 아낟따.	다행히	다앵이
+h-deletion	Original_WARW1800000049	동주는 혼자 밤을 견뎌야 하는 자취방이 싫었다.	동주는 혼자 바믈 견뎌야 하는 자취방이 시럳따.	싫었다	시럳따
+h-deletion	Original_SARW1800001314	정체성은 우리의 정체성하고 맞닿아있다	정체성은 우리에 정체성아고 맏따아읻따	맞닿아있다	맏따아읻따
+h-deletion	Original_SARW1900000033	그래 헤어지는 게 옳은 거다.	그래 헤어지는 게 오른 거다.	옳은	오른
+h-deletion	Original_SARW1900000033	요런 식에 어떤 단호함을 넣어달라고 말씀드렸습니다.	요런 시게 어떤 다노아믈 너어달라고 말씀드렫씀니다.	넣어달라고	너어달라고
+h-deletion	Original_SARW1900000033	어떤 정신으로 맨 정신 아닌 상태로 전화를 한데요.	어떤 정시느로 맨 정신 아닌 상태로 저놔를 한데요	전화를	저놔를
+h-deletion	Original_SARW1900000033	아~ 가수와 노래를 간단하게 소개해드릴게요.	아~ 가수와 노래를 간다나게 소개애드릴게요	소개해드릴게요	소개애드릴게요
+aspiration	Original_SARW1900000033	여러분들 자 이제 생각해보도록 하겠습니다.	여러분들 자 이제 생가캐보도록 하겓씀니다.	생각해보도록	생가캐보도록
+aspiration	Original_WBRW1900013753	주말인 내일은 전국이 가ː끔 흐린 가운데／경ː남 남해안 지방은 낮 한 때 비가 조금 오겠습니다.／	주마린 내이른 전구기 가끔 흐린 가운데 경남 나매안 지방은 나탄때 비가 조금 오게씀니다	낮 한 때	나탄때
+aspiration	Original_SBRW1900002280	소장님 월요일날 힘차게 하루를 열어젖히면서 한 주를 그렇죠.	소장님 워료일랄 힘차게 하루를 여러저치면서 한 주를 그러쵸	열어젖히면서	여러저치면서
+aspiration	Original_SBRW1900005342	한국에서는 거의 부동산에 일단 쌓죠.	한구게서는 거이 부동사네 일단 싸쵸	쌓죠	싸쵸
+aspiration	Original_SBRW1900005343	그 그림이 잡히기가 어려운가요?	그 그리미 자피기가 어려운가요?	잡히기가	자피기가
+aspiration	Original_WARW1800000049	그가 소각로 앞으로 다가가 불을 밝히자 그을음에 물든 검은 벽이 드러났다.	그가 소강노 아프로 나가가 부를 발키자 그으르메 물든 거믄 벼기 드러낟따	밝히자	발키자
+aspiration	Original_WARW1800000049	해원의 방에 들어가자 장판 밑에 스며든 물이 밟히며 잘박거리는 소리를 냈다.	해워네 방에 드러가자 장판 미테 스며든 무리 발피며 잘박꺼리는 소리를 낻따	밟히며	발피며
+aspiration	Original_WARW1800000071	참고로 지금은 점심시간이고, 널 데려다 식탁의자에 앉히는 게 내 속셈의 전부야.	참고로 지그믄 점심시가니고, 널 데려다 식타기자에 안치는 게 내 속쎄메 전부야	앉히는	안치는
+aspiration	Original_WARW1800000071	사라지는 순간은 한 번도 목격하지 못했다.	사라지는 순가는 한 번도 목껴카지 몯탣따.	목격하지	목껴카지
+aspiration	Original_WARW1900000097	옷 하나 걸치지 않았는데 어디로 숨을 곳도 없었습니다.	오타나 걸치지 아난는데 어디로 수믈 곧또 업썯씀니다	옷 하나	오타나
+palatalization	Original_WARW1800000008	굳이 끝까지 안 들어봐도 의도가 뻔한 질문이었다.	구지 끋까지 안 드러봐도 의도가 뻐난 질무니얻따	굳이	구지
+palatalization	Original_WARW1800000048	간혹 규용이 회원들에게 받은 통닭을 주려고 마루의 유리 미닫이문을 두드려도 알아듣지 못했다.	가녹, 규용이 회원드레게 바든 통달글 주려고 마루에 유리 미다지무늘 두드려도 아라듣찌 모탣따	미닫이문	미다지문
+palatalization	Original_WARW1900001234	등받이에 뒷머리를 기대며 창밖을 응시한 그녀의 눈 안으로 낯익은 풍경들이 들어왔다.	등바지에 뒨마리를 기대며 창바끌 응시안 그녀에 눈 아느로 나디근 풍경드리 드러왇따	등받이에	등바지에
+palatalization	Original_WARW1900001245	같이 살자는 얘기도 아닌데….	가치 살자는 얘기도 아닌데….	같이	가치
+palatalization	Original_WARW1800000007	그래 똑같이 그 부인들이 태기가 있다	그래 똑까치 그 부인드리 태기가 읻다	똑같이	똑까치
+palatalization	Original_SARW1800000160	그런데도 굳이 아날로그 시계를 읽을 줄 알아야 할까요?	그런데도 구지 아날로그 시게를 일글 쭐 아라야 할까요?	굳이	구지
+palatalization	Original_SARW1900000928	그것을 열고 닫는다는 의미로 여닫이문이라고 하는데요.	그거슬 열고 단는다는 의미로 여다지무니라고 하는데요.	여닫이	여다지
+palatalization	Original_SBRW1900002655	또 일육구육님도 덧붙혀주셨는데요.	또 일륙구융님도 덛뿌쳐주션는데요	덧붙혀주셨는데요	덛뿌쳐주션는데요
+palatalization	Original_SBRW1900011400	최룡해 노동당 부위원장은 이인자 자리를 굳혔다는 평가가 나오고 있습니다.	최룡애 노동당 부위원장은 이인자 자리를 구쳗따는 평가가 나오고 읻씀니다	굳혔다는	구쳗따는
+palatalization	Original_SBRW1900003127	같이 더불어서 조금 그런 스트레스가 더 많지 않을까	가치 더부러서 조금 그런 스트레스가 더 만치 아늘까	같이	가치
+h-neutralization	Original_SARW1800000349	일단은 이 영어수업 전면 금지 뭐 당장 와닿는 문제다	일다는 이 영어수업 전면 금지 뭐 당장 와단는 문제다	와닿는	와단는
+h-neutralization	Original_SARW1800001276	대한민국에서 아이를 낳는 것은 모험이다.	대한민국에서 아이를 난는 거슨 모엄이다. 	낳는	난는
+h-neutralization	Original_SBRW1900000140	근데 하늘은 어 그에 비해 너무 한산하게 파랗습니다.	근데 하느른 어 그에 비애 너무 한사나게 파랃씀니다.	파랗습니다	파랃씀니다
+h-neutralization	Original_SBRW1900005449	그냥 거짓말도 아니고 새빨갛습니다.	그냥 거진말도 아니고 새빨갇씀니다	새빨갛습니다	새빨갇씀니다
+h-neutralization	Original_SBRW1900014648 	아~ 뭐 뿌리시네 색깔이 아주 노랗습니다.	아~ 뭐 뿌리시네 색까리 아주 노랃씀니다.	노랗습니다	노랃씀니다
+th -neutralization	Original_WARW1800000007	남산에 밭 한 뙈기가 있는데, 변토랙이요.	남사네 받 한 뙈기가 인는데, 변토래기요.	밭	받
+th -neutralization	Original_WARW1800000008	인간의 삶은 언뜻 강물과 같다.	인가네 살믄 언뜯 강물과 갇따.	같다	갇따
+th -neutralization	Original_WARW1800000021	남자는 샅샅이 핥아주기를 바라는 것 같았습니다.	남자는 삳싸치 할타주기를 바라는 걷 가탇씀니다.	샅샅이	삳싸치
+th -neutralization	Original_WARW1800000023	군권 없는 병권은 한낱 종이호랑이에 불과하다.	군권 엄는 병궈는 한낟 종이오랑이에 불과아다.	한낱	한낟
+th -neutralization	Original_WARW1900000276	내부뿐만 아니라 겉 또한 허물을 한 꺼풀 벗게 되지.	내부뿜만 아니라 걷 또안 허무를 한 꺼풀 벋께 되지	겉	걷
+n-Insertion	Original_WARW1900002440	막일꾼들이 노래를 부르는 자들을 흘끗거리며 말했다.	망닐꾼드리 노래를 부르는 자드를 흘끋꺼리며 마랟따	막일꾼	망닐꾼
+n-Insertion	Original_WARW1900002443	그때는 지금보다 좀 더 늦은 한여름이었어요.	그때는 지금보다 좀 더 느즌 한녀르미어써요	한여름이었어요	한녀르미어써요
+n-Insertion	Original_WARW1900002481	홑이불 같은 비구름이 산허리를 덮고 있는 것이다.	혼니불 가튼 비구르미 사너리를 덥꼬 인는 거시다.	홑이불	혼니불
+n-Insertion	Original_WARW1900002590	모두 구급약을 사러 가는 것인 줄은 의식했다.	모두 구금냐글 사러 가는 거신 주른 의시캗따	구급약	구금냑
+n-Insertion	Original_WARW1900000493	그리고 그 사이로 낯익은 얼굴의 노인네와 그 일파가 모습을 드러냈다.	그리고 그 사이로 난니근 얼구레 노인네와 그 일파가 모스블 드러낻따	낯익은	난니근
+n-Insertion	Original_SBRW1800000290	자 그래서 인제 당근 넣어 주시고 당근 네 양파 깻잎 빼시고요.	자 그래서 인제 당근 너어 주시고 당근 네 양파 깬닙 빼시고요	깻잎	깬닙
+n-Insertion	Original_SBRW1900000177	겨울엔 별로 밭일이 별로 없어서 그쵸.	겨우렌 별로 반니리 별로 업써서 그쵸	밭일	반닐
+n-Insertion	Original_SBRW1900000098	푸른 강물 하얀 모래밭 날 선 푸른 댓잎이 사운대는 삼림 강가에 서럽게 서보셨는지요.	푸른 강물 하얀 모래받 날 선 푸른 댄니피 사운대는 삼림 강가에 서럽께 서보션는지요	댓잎	댄닙
+n-Insertion	Original_SBRW1900000369	워낙에 강약이 부동인 워낙 분명하게 가려져 있기 때문에 예.	워나게 강냐기 부동인 워낙 분명아게 가려져 읻끼 때무네 예.	강약	강냑
+n-Insertion	Original_SBRW1900008287	콩잎 같지 않아요?	콩닙 갇찌 아나요?	콩잎	콩닙
+nasalization	Original_SBRW1900011430	국물이 싱거울 때가 있다니까	궁무리 싱거울 때가 읻따니까	국물	궁물
+nasalization	Original_SBRW1900008295	밥맛이 없다 하시는 분들은 없을 것 같습니다.	밤마시 업따 하시는 분드른 업쓸 껃 갇씀니다	밥맛	밤맏
+nasalization	Original_SBRW1900008373	파국으로 치닫는다.	파구그로 치단는다	치닫는다	치단는다
+nasalization	Original_SBRW1900008609	오빠 어우 오빠 달걀 하트 들고 우리 꽃놀이가요.	오빠 어우 오빠 달걀 하트 들고 우리 꼰노리가요	꽃놀이가요	꼰노리가요
+nasalization	Original_SBRW1900008866	어 진짜 말 한마디로 천 냥 빚 갚는다는 말이 그러네	어 진짜 말 한마디로 천 냥 빋 감는다는 마리 그러네	갚는다는	감는다는
+nasalization	Original_SBRW1900008877	아~ 오~ 아까 뭐 지방 잡는 지방이다	아~ 오~ 아까 뭐 지방 잠는 지방이다	잡는	잠는
+nasalization	Original_SBRW1900009051	오케이 국면 전환용으로는 최고예요.	오케이 궁면 저놘뇽으로는 최고예요	국면	궁면
+nasalization	Original_SBRW1900009103	어~ 여기 있다 할 때 소름이 확 돋는 거야	어~ 여기 읻따 할 때 소르미 확 돈는 거야	돋는	돈는
+nasalization	Original_SBRW1900015083	뜨거운 햇님이 이분의 그 인민복마저 벗긴 것 같습니다.	뜨거운 핸님이 이부네 그 인민봉마저 벋낀 걷 갇씀니다. 	햇님	핸님
+nasalization	Original_SARW1900001098	각막이 혼탁이 생긴 거예요.	강마기 혼타기 생긴 거에요	각막	강막
+lateralization	Original_SERW1900011017	푸른 하늘에 달님이 있은 지 얼마던가.	푸른 하느레 달림이 이쓴 지 얼마던가	달님	달림
+lateralization	Original_SERW1900055037	신라 시대의 와당일세.	실라 시대에 와당일세	신라	실라
+lateralization	Original_SERW1900055038	공장에서 또 난리야.	공장에서 또 날리야	난리야	날리야
+lateralization	Original_SBRW1900014062	복리로 늘어나는 것과 단리로 늘어나는 건 좀 차이가 있긴 하죠.	봉니로 느러나는 걷꽈 달리로 느러나는 건 좀 차이가 읻낀 하죠	단리로	달리로
+lateralization	Original_SBRW1900014409	본래 수성이 어려운 겁니다.	볼래 수성이 어려운 검니다	본래	볼래
+lateralization	Original_WARW1900002653	그 동천의 집도 원래는 해남읍 성중이었다.	그 동처네 집또 월래는 해나믑 성중이얻따	원래는	월래는
+lateralization	Original_WARW1900000239	엄마가 들려주는 전래이야기	엄마가 들려주는 절래이야기	전래이야기	절래이야기
+lateralization	Original_WARW1900002440	투전판에서 선량 얘기는 왜 자꾸 나오누?	투전파네서 설량 얘기는 왜 자꾸 나오누?	선량	설량
+lateralization	Original_WARW1900002824	어느새 여자의 동작엔 탄력이 붙어 있다.	어느새 여자에 동자겐 탈려기 부터 읻따.	탄력이	탈려기
+lateralization	Original_WARW1900002833	아버지는 한량이었을까?	아버지는 할량이어쓸까?	한량이었을까	할량이어쓸까
+post obstruent tensing	Original_WARW1900002834	인간의 조건은 각각에게 고유하고, 끔찍할 정도로 지긋지긋하며,	인가네 조거는 각까게게 고유아고, 끔찌칼 정도로 지귿찌그타며	각각에게	각까게게
+post obstruent tensing	Original_WARW1900002440	학비 같은 것은 조금도 걱정 마라.	학삐 가튼 거슨 조금도 걱쩡 마라	걱정	걱쩡
+post obstruent tensing	Original_WBRW1900010507	그러나 이는 행사상 일신전속권일 뿐이고 귀속상 일신전속권은 아니다.	그러나 이는 행사상 일신전속꿘일일 뿌니고 귀속쌍 일신전속꿘은 아니다	귀속상	귀속쌍
+post obstruent tensing	Original_WBRW1900010541	한 여인이 십자가를 지고 가는 예수에게 수건을 건넨다.	한 여이니 십짜가를 지고 가는 예수에게 수거늘 건넨다.	십자가를	십짜가를
+post obstruent tensing	Original_WBRW1900011324	그래야 도련님이 집 밖으로 나가실 텐데요'라고 여쭙고 올깝쇼?	그래야 도련니미 집 바끄로 나가실 텐데요라고 여쭙꼬 올깝쑈?	올깝쇼	올깝쑈
+post obstruent tensing	Original_SBRW1900014456	뭐 검찰 수사 행태는 이런 이런 일을 계기로 해서 국민적 각성이 생겨야죠.	뭐 검찰 수사 행태는 이런 이런 이를 계기로 해서 궁민적 각썽이 생겨야죠	각성이	각썽이
+post obstruent tensing	Original_SBRW1900014496	거 뭐 갑질 문화를 이번 기회에 뿌리 뽑아야 된다.	거 뭐 갑찔 무놔를 이번 기외에 뿌리 뽀바야 된다.	갑질	갑찔
+post obstruent tensing	Original_SBRW1900011666	뭐 이렇게까지 아~ 나오면서 여기에 감정이 격분됐다	뭐 이러케까지 아 나오면서 여기에 감정이 격뿐됃따	격분	격뿐
+post obstruent tensing	Original_SBRW1900014745	아마 세상을 다 가진듯한 착각 속에서 살고 있는 게 아닌가	아마 세상을 다 가진드탄 착깍 속에서 살고 인는 게 아닌가	착각	착깍
+post obstruent tensing	Original_SARW1900001102	그런데 여러분 살다 보면 친구가 많은 사람이 적도 많다	그런데 여러분 살다 보면 친구가 마는 사라미 적도 만타	적도	적또
+ui	Original_SARW1800000025	피해사례가 늘고 있어 주의가 필요합니다.	피애사레가 늘고 이써 주이가 피료암니다.	주의가	주이가
+ui	Original_SARW1800000034	과연 김치버거의 맛은 어떨까요?	과연 김치버거에 마슨 어떨까요	김치버거의	김치버거에
+ui	Original_SARW1800000107	우선은 이제 아침에 등교할 때 거의 마스크는 착용하고 가고.	우서는 이제 아치메 등교알 때 거이 마스크는 차굥아고 가고	거의	거이
+ui	Original_SARW1800000186	중과실이나 고의가 아닌 경우는 선생들헌테 책임을 묻지 않고 관용을 베풀겠습니다.	중과시리나 고이가 아닌 경우는 선생드런테 채기믈 묻찌 안코 과뇽을 베풀겓씀니다.	고의가	고이가
+ui	Original_SARW1800000188	이동현 기자의 보돕니다.	이동연 기자에 보돔니다.	기자의	기자에
+ui	Original_WARW1900002848	시는 의미를 사는 것이 아니라 의미와 무의미 사이의 균열과 틈새를 살아간다.	시는 의미를 사는 거시 아니라 의미와 무이미 사이에 규녈과 틈새를 사라간다	무의미	무이미
+ui	Original_WARW1900002849	웃음을 안겨주는 순수의 80년대?	우스믈 안겨주는 순수에 80년대?	순수의	순수에
+ui	Original_WARW1900002850	그러나 나는, 화려한 무대의상과 짙은 분장 너머에서 반짝이고 있는 그의 젖은 눈빛이 왠지 남의 것 같지 않다.	그러나 나는, 화려안 무대이상과 지튼 분장 너머에서 반짜기고 인는 그에 저즌 눈비치 왠지 나메 걷 갇찌 안타	남의	나메
+ui	Original_WARW1900002859	타의든 자의든 체념하여 인정했다.	타이든 자이든 체녀마여 인정앧따.	자의	자이
+ui	Original_WARW1900002859	천하의 뻔뻔스러운 남자 같으니라고!	처나에 뻔뻔스러운 남자 가트니라고!	천하의	처나에
+liaison	Original_WARW1900002859	같이 있고 싶으니까.	가치 읻꼬 시프니까	싶으니까	시프니까
+liaison	Original_WARW1900002859	잊어버린 모양인데 이 집의 주인은 나야.	이저버린 모양인데 이 지베 주이는 나야	잊어버린	이저버린
+liaison	Original_WARW1900002859	가린은 열을 받아 그에게 따졌다.	가리는 여를 바다 그에게 따젿따	열을	여를
+liaison	Original_WARW1900002859	내가 목숨을 걸고 장담하지.	내가 목쑤믈 걸고 장다마지	목숨을	목쑤믈
+liaison	Original_WARW1900002859	솜사탕처럼 녹여버리는 근사한 유혹을 하고 영혼이 흠뻑 젖어 들도록 멋진 키스를 하는 사람.	솜사탕처럼 노겨버리는 근사안 유오글 하고 영호니 흠뻑 저저 들도록 먿찐 키스를 하는 사람	젖어	저저
+liaison	Original_SARW1800000190	요리를 도맡아 만드는 셰프 로봇들.	요리를 도마타 만드는 셰프 로볻뜰	도맡아	도마타
+liaison	Original_SARW1800000821	낯이 좀 익다 싶었더니	나치 좀 익따 시펃떠니	낮이	나지
+liaison	Original_SBRW1900011669	잠시 후 안과 밖으로 이어갑니다.	잠시 후 앙과 바끄로 이어감니다	밖으로	바끄로
+liaison	Original_SBRW1900003761	당황스러운 게 음 이제 전년도에 예쁘게 무슨 화분을 하나 샀어요.	당왕스러운 게 음 이제 전년도에 예쁘게 무슨 화부늘 하나 사써요	샀어요	사써요
+liaison	Original_SBRW1900003761	그 분갈이에 흙이 보통 다육 전용토라고 하는 토양을 팔아요.	그 분가리에 흘기 보통 다육 저뇽토라고 하는 토양을 파라요	흙이	흘기
+place assimilation	Original_SBRW1900000142	좋은 옷보다 네.	조은 옵뽀다 네	옷보다	옵뽀다
+place assimilation	Original_SBRW1900005761	깃발도 보셨다고 하셨지만 네.	깁빨도 보셛따고 하셛찌만 네	깃발도	깁빨도
+place assimilation	Original_SBRW1900005762	준비되셨어요?	줌비되셔써요	준비	줌비
+place assimilation	Original_SBRW1900006026	아 국방비에 숟가락 대는 사람들 구족을 멸해야 됩니다	아 국빵비에 숙까락 대는 사람들 구족을 며래야 됨니다	숟가락	숙까락
+place assimilation	Original_SBRW1900007307	반드시 안기부나 경찰이 뒷조사를 해서 어떤 방식으로 못 나오게 하냐	반드시 앙기부나 경차리 뒫쪼사를 해서 어떤 방시그로 몯 나오게 하냐	안기부나	앙기부나
+place assimilation	Original_WARW1800000049	한위는 도솔암 마당을 지나 산기슭으로 내려가는 숲길로 접어들었다.	하뉘는 도소람 마당을 지나 산기슬그로 내려가는 숙낄로 저버드럳따	숲길로	숙낄로
+place assimilation	Original_WARW1900000062	짐꾼은 소리를 지르고 있다.	징꾸는 소리를 지르고 읻따	짐꾼은	징꾸는
+place assimilation	Original_WARW1900000297	그만큼 남자의 공세는 사납기 이를 데 없었다.	그만큼 남자에 공세는 사낙끼 이를 데 업썯따	사납기	사낙끼
+place assimilation	Original_WARW1900000325	나는 옷고름을 지그시 누르며 행여 누가 볼세라 주위를 살폈다.	나는 옥꼬르믈 지그시 누르며 행여 누가 볼세라 주위를 살펻따	옷고름을	옥꼬르믈
+place assimilation	Original_WARW1900000896	잔고를 보니 괜히 뿌듯해졌다.	장고를 보니 괘니 뿌드태젿따	잔고를	장고를
